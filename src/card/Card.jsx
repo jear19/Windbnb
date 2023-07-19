@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import "./Card.css"
 function Card(carta) {
 
+// Parametros Card, establecer conexiones//
+
     const estado = carta.superH;
     const estadoBed = carta.beds;
     let maxGuests= carta.maxGuests;

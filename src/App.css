@@ -340,7 +340,6 @@ body {
 @media (max-width: 1100px) {
     .menu_00 {
         display: flex;
-        /* background-color: aqua; */
         justify-content: start;
         align-items: center;
         height: 25vh;
@@ -367,7 +366,6 @@ body {
 
     #btn_orange {
         position: absolute;
-        /* top: 520px; */
         top: 80%;
         left: 120px;
         border-radius: 13px;
@@ -384,20 +382,15 @@ body {
 
     #span_bar {
         flex-direction: column;
-        /* background-color: aqua; */
         height: 50px;
         gap: 150%;
     }
 
 
     .span_title {
-        /* z-index: 2; */
-        /* border: 1px solid black; */
         position: relative;
         top: 120%;
-        /* margin-bottom: 22%; */
         left: 5%;
-        /* background-color: rgb(60, 108, 92); */
         height: 20px;
         width: 33%;
         font-weight: bolder;
@@ -405,12 +398,10 @@ body {
     }
 
     .menu_input {
-        /* background-color: aqua; */
         width: 100%;
     }
 
     #locInv {
-        /* background-color: aqua; */
         flex-direction: column;
         margin-left: -10%;
         width: 90%;
@@ -419,10 +410,7 @@ body {
     .locales_00 {
         position: relative;
         width: 100%;
-        /* padding-top: 5%; */
-        /* padding: 0; */
         height: 0px;
-        /* background-color: aqua; */
         overflow: visible;
     }
 
@@ -430,24 +418,19 @@ body {
         width: 110%;
         margin-left: 0;
         display: flex;
-        /* border: 1px solid black; */
         font-size: 12px;
         align-items: center;
         height: 30%;
         padding: 3%;
         user-select: none;
-        /* margin-bottom: 10%; */
     }
 
     .guest_box {
         position: relative;
-        /* top: -75px; */
         flex-direction: column;
         height: 70%;
         flex-wrap: wrap;
-        /* overflow: auto; */
         width: 100%;
-        /* background-color: aqua; */
     }
 
     .hola {
@@ -456,7 +439,6 @@ body {
         padding-left: 10%;
         padding-right: 10%;
         padding-bottom: 10%;
-        /* background-color: aqua; */
     }
 
     .menu_fondo_w {

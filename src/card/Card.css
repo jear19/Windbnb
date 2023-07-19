@@ -24,7 +24,7 @@
 }
 /* 
 .card-img-top:hover {
-    transition: 1000ms;
+    transition: 100ms;
     transform: scale(1.2);
 } */
 
@@ -36,7 +36,7 @@
 }
 
 .card_superH {
-    border-radius: 20px;
+    border-radius: 22px;
     padding: 10px;
     font-size: 13px;
     font-weight: 600;
